@@ -1,6 +1,6 @@
 # ui_lottie_splash
 
-A new Flutter project.
+Lottie에서 json으로 다운로드 받은 소스를 assets에 담아서 사용
 
 ## Getting Started
 
