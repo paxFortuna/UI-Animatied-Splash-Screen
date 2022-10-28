@@ -11,7 +11,7 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return AnimatedSplashScreen(
-      // lottie 소스를 json으로 받아서 assets에 저장 후 사용
+      // lottie 소스를 json으로 받아서 assets에 저장 후 사용할 것
       splash: Lottie.asset('assets/nike-animation.json'),
       splashIconSize: 250,
       backgroundColor: Colors.black87,
